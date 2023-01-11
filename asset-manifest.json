@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-pb3ctr/static/css/main.e0be7221.chunk.css",
+    "main.js": "https://.github.io/csb-pb3ctr/static/js/main.2cc4c17f.chunk.js",
+    "main.js.map": "https://.github.io/csb-pb3ctr/static/js/main.2cc4c17f.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-pb3ctr/static/js/runtime-main.efd88319.js",
+    "runtime-main.js.map": "https://.github.io/csb-pb3ctr/static/js/runtime-main.efd88319.js.map",
+    "static/js/2.e0075b22.chunk.js": "https://.github.io/csb-pb3ctr/static/js/2.e0075b22.chunk.js",
+    "static/js/2.e0075b22.chunk.js.map": "https://.github.io/csb-pb3ctr/static/js/2.e0075b22.chunk.js.map",
+    "index.html": "https://.github.io/csb-pb3ctr/index.html",
+    "static/css/main.e0be7221.chunk.css.map": "https://.github.io/csb-pb3ctr/static/css/main.e0be7221.chunk.css.map",
+    "static/js/2.e0075b22.chunk.js.LICENSE.txt": "https://.github.io/csb-pb3ctr/static/js/2.e0075b22.chunk.js.LICENSE.txt",
+    "static/media/logoipsum-226.684506f7.svg": "https://.github.io/csb-pb3ctr/static/media/logoipsum-226.684506f7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efd88319.js",
+    "static/js/2.e0075b22.chunk.js",
+    "static/css/main.e0be7221.chunk.css",
+    "static/js/main.2cc4c17f.chunk.js"
+  ]
+}
